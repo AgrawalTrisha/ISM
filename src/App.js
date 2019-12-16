@@ -7,16 +7,19 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>
+          Trisha Agrawal's Original Work
+        </h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is a webpage coded in React JS. It's made with Javascript, JSX tags, and has some CSS styling to make it visually appealing.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://agrawaltrisha.weebly.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My portfolio
         </a>
       </header>
     </div>
